@@ -19,7 +19,7 @@ function Footer() {
           <div className="gpt3__footer__nav__column__logo">
             <img src={logo} alt="logo" />
           </div>
-          <p>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</p>
+          <p>Javascript-Master, All Rights Reserved added by niazi.</p>
         </div>
 
         <div className="gpt3__footer__nav__column">
